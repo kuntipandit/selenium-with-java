@@ -4,6 +4,7 @@ import org.testng.annotations.*;
 
 public
 class Testselenium1 {
+
     @BeforeTest
     public void beforetest(){
         System.out.println("this is before test");
@@ -29,6 +30,7 @@ public void beforemethod(){
 
     @AfterTest
     public void aftertest(){
+
         System.out.println("this is after test");
     }
 }
