@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b970ca-f4b6-4638-be56-c59190c7ff0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/Runner/CucumberRunnertest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/exampleapitest/Firstapitests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/exampleselenium/Apitests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/stepdefinition/Loginpagedefinitions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/SingletonBrowserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/LocatorSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Locators/login-locators.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/apitesting/Firstapitest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Firstapitest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/stepdefinition/Loginpagedefinitions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/stepdefinition/Loginpagedefinitions1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -8,7 +8,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-
 import java.util.Collections;
 import java.util.concurrent.TimeUnit;
 
@@ -31,9 +30,9 @@ public class Loginpagedefinitions1 {
         driver.manage().timeouts().implicitlyWait(TIMEOUT, TimeUnit.SECONDS);
     }
 
-    @Given("User is in Suacedemo homepage {string}")
+    @Given("User is in HRMOrange homepage {string}")
     public void navigate_to_url(String url) {
-        System.out.println("in prestep");
+        System.out.println("url");
         driver.get(url);
     }
     @When("Logins to the system")
