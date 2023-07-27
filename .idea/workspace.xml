@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b970ca-f4b6-4638-be56-c59190c7ff0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/LocatorSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Locators/login-locators.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/staticfield/StaticInstances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/stepdefinition/Commonstepdefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/stepdefinition/HRMpagedefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/AnimalSingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/HRM.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/exampleselenium/Apitests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/exampleselenium/Apitests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/stepdefinition/Loginpagedefinitions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/stepdefinition/Loginpagedefinitions1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Locators/login-locators.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Locators/login-locators.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +51,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.staticfield" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.CucumberRunnertest">
     <configuration name="CucumberRunnertest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumwithjava" />
